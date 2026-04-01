@@ -10,7 +10,8 @@ Then I specialized in Front-End programming and Minecraft Plugin development wit
 
 ---
 
-## Languages and Tools:
+## Some tools and infos:
+  <img src="https://img.shields.io/github/stars/xernasdev?label=Stars" alt="stars">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
