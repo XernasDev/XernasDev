@@ -11,31 +11,33 @@ Then I specialized in Front-End programming and Minecraft Plugin development wit
 ---
 
 ## Some tools and infos:
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/xernasdev?style=for-the-badge&color=red">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/C-black?style=for-the-badge">
-  <img alt="Static Badge" src="https://img.shields.io/badge/C%23-gray?style=for-the-badge">
-  <img alt="Static Badge" src="https://img.shields.io/badge/HTML-darkorange?style=for-the-badge">
-  <img alt="Static Badge" src="https://img.shields.io/badge/CSS-lightblue?style=for-the-badge">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Python-%23ffd343?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Numpy-teal?style=for-the-badge&logo=numpy&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/OpenCV-%23FF7074?style=for-the-badge&logo=opencv&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge">
-  <img alt="Static Badge" src="https://img.shields.io/badge/React-cyan?style=for-the-badge&logo=react&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/PHP-darkblue?style=for-the-badge">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Roblox%20Studio-blue?style=for-the-badge&logo=robloxstudio&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Lua-navy?style=for-the-badge">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/LWJGL-darkorange?style=for-the-badge">
-  <img alt="Static Badge" src="https://img.shields.io/badge/OpenGL-lightblue?style=for-the-badge&logo=opengl&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-%230A7E8C?style=for-the-badge&logo=mysql&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23F1502F?style=for-the-badge&logo=git&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/VSCode-%230078d7?style=for-the-badge">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Jetbrains-%23090030?style=for-the-badge&logo=jetbrains&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Insomnia-%23301934?style=for-the-badge&logo=insomnia&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Notion-lightgray?style=for-the-badge&logo=notion">
+  <span>
+    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/xernasdev?style=for-the-badge&color=red">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
+    <img alt="Static Badge" src="https://img.shields.io/badge/C-black?style=for-the-badge">
+    <img alt="Static Badge" src="https://img.shields.io/badge/C%23-gray?style=for-the-badge">
+    <img alt="Static Badge" src="https://img.shields.io/badge/HTML-darkorange?style=for-the-badge">
+    <img alt="Static Badge" src="https://img.shields.io/badge/CSS-lightblue?style=for-the-badge">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Python-%23ffd343?style=for-the-badge&logo=python&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Numpy-teal?style=for-the-badge&logo=numpy&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/OpenCV-%23FF7074?style=for-the-badge&logo=opencv&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge">
+    <img alt="Static Badge" src="https://img.shields.io/badge/React-cyan?style=for-the-badge&logo=react&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=nodedotjs&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/PHP-darkblue?style=for-the-badge">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Roblox%20Studio-blue?style=for-the-badge&logo=robloxstudio&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Lua-navy?style=for-the-badge">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/LWJGL-darkorange?style=for-the-badge">
+    <img alt="Static Badge" src="https://img.shields.io/badge/OpenGL-lightblue?style=for-the-badge&logo=opengl&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-%230A7E8C?style=for-the-badge&logo=mysql&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23F1502F?style=for-the-badge&logo=git&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/VSCode-%230078d7?style=for-the-badge">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Jetbrains-%23090030?style=for-the-badge&logo=jetbrains&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Insomnia-%23301934?style=for-the-badge&logo=insomnia&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Notion-lightgray?style=for-the-badge&logo=notion">
+  </span>
   
 #
 
