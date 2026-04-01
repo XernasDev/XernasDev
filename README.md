@@ -1,16 +1,16 @@
-# Hey 👋, I'm Xernas
+# Hey ! I'm Ilan
 ## A passionate French Java & Web developer
 
 <details>
-  <summary><h3>👨‍💻 About me</h3></summary>
-  I'm Xernas (17), I was always very interested in programming in general, I first started with Minecraft, wondering how it all worked so I first began modifying the game's code and having a lot of fun.</br> Later I became interested in Minecraft plugins because They didn't require modifying the client and It was a lot simpler, thanks to plugins I gained a lot of experience in Java so I started learning other languages like Python at first but then C# (because the syntax is very similar), HTML/CSS/JS, and other languages.<br>
+  <summary><h3>About me</h3></summary>
+  I'm Ilan (17), I was always very interested in programming in general, I first started with Minecraft, wondering how it all worked so I first began modifying the game's code and having a lot of fun.</br> Later I became interested in Minecraft plugins because They didn't require modifying the client and It was a lot simpler, thanks to plugins I gained a lot of experience in Java so I started learning other languages like Python at first but then C# (because the syntax is very similar), HTML/CSS/JS, and other languages.<br>
 Then I specialized in Front-End programming and Minecraft Plugin development with other hobbies like creating software and I now have 3 years of programming experience!
 </details>
 
 
 ---
 
-## 🧰 Languages and Tools:
+## Languages and Tools:
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
@@ -44,10 +44,6 @@ Then I specialized in Front-End programming and Minecraft Plugin development wit
   </a>
 
 #
-
-## 📊 Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=xernas78&show_icons=true&theme=onedark&locale=en&layout=compact" alt="xernas78" />
-<img src="https://github-readme-stats.vercel.app/api?username=xernas78&show_icons=true&theme=onedark&locale=en&layout=compact" alt="xernas78 rank"/>
 
 #
 
