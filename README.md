@@ -1,5 +1,5 @@
 # Hey ! I'm Ilan
-## A passionate French Java & Web developer
+## A 17y/o low-level Java Developer
 
 --> Currently working on [Hydrogen](https://github.com/XernasDev/Hydrogen) ! 
 <details>
