@@ -45,7 +45,6 @@ Then I specialized in Front-End programming and Minecraft Plugin development wit
 #
 
 <h2><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/fpg2mUcBrM" height="30" width="40" /> Discord</h2>
-<h3>Join my <a href="https://discord.gg/https://discord.gg/fpg2mUcBrM" target="blank">Discord Server</a></h3>
 <h3>Contact me : .xernas</h3>
 
 #
